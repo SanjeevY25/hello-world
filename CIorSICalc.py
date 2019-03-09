@@ -20,4 +20,5 @@ print("This is a compound interest and simple interest calculator, made by a stu
 op = input("Enter the operation you want to do (Simple Interest or Compound Interest): ")
 if  op.lower() == "si" or "compound interest":
     CI()
-elif op.lower() == "si" or "simple interest"
+elif op.lower() == "si" or "simple interest":
+    SI()
